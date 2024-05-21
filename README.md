@@ -1,13 +1,12 @@
-### Ismael Fernández Archilla
-  ![Foto](https://drive.google.com/file/d/1sMAdHc4fH_UDQ2JDSOe_TyrjccTeBscf/view?usp=drive_link)
+![Banner](https://i.imgur.com/GDqFlfV.png)
 ## Información Personal
-- **20 años**
-- **Estudiante de Desarrollo de Aplicaciones Web en I.E.S Abdera**
+- **20 años :rocket:** 
+- **Estudiante de Desarrollo de Aplicaciones Web en I.E.S Abdera :heart:**
 
 ## Contacto
-- [Instagram](https://www.instagram.com/ismael_bnk/)
-- [Twitter](https://x.com/Ismael_GRMY)
-- ismaelarchi@gmail.com
+- [Instagram](https://www.instagram.com/ismael_bnk/) 📷
+- [Twitter](https://x.com/Ismael_GRMY) 🐦
+- ismaelarchi@gmail.com 📫
 
 ## Proyectos Destacados 
 -[Proyecto](https://github.com/Ismael3011/programacion)
@@ -19,4 +18,7 @@
     - HTML/CSS
 - **Herramientas**
     - VS Code
- 
+
+## Estadisticas de GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=tu-us
+uario&show_icons=true)
