@@ -13,9 +13,6 @@ Soy un estudiante de Desarrollo de Aplicaciones Web con la idea de seguir forman
 
 [![Gmail](https://img.shields.io/badge/Gmail-ismaelarchi@gmail.com-E4405F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()
 
-## Proyectos Destacados 
--[Proyecto](https://github.com/Ismael3011/programacion)
-
 ## Tecnologias y Herramientas
 - **Tecnologías**
     - Python
@@ -51,5 +48,7 @@ Soy un estudiante de Desarrollo de Aplicaciones Web con la idea de seguir forman
   </tr>
 </table>
 
-## Estadisticas de GitHub
-![Stats](https://github.com/Ismael3011?tab=stars)
+## Estadisticas de GitHub / Proyectos Destacados 
+
+-[Proyecto](https://github.com/Ismael3011/programacion)
+-![Stats](https://github.com/Ismael3011?tab=stars)
