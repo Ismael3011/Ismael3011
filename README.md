@@ -21,6 +21,19 @@ Soy un estudiante de Desarrollo de Aplicaciones Web con la idea de seguir forman
     - HTML/CSS
 - **Herramientas**
     - VS Code
+## Cursos Que He Seguido
+<table>
+  <tr>
+    <td>
+       
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Estadisticas de GitHub
 ![Stats](https://github.com/Ismael3011?tab=stars)
