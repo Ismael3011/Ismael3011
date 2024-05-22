@@ -51,4 +51,5 @@ Soy un estudiante de Desarrollo de Aplicaciones Web con la idea de seguir forman
 ## Estadisticas de GitHub / Proyectos Destacados 
 
 -[Proyecto](https://github.com/Ismael3011/programacion)
+
 -![Stats](https://github.com/Ismael3011?tab=stars)
