@@ -18,6 +18,8 @@ Soy un estudiante de Desarrollo de Aplicaciones Web con la idea de seguir forman
     - Python
     - JavaScript
     - HTML/CSS
+    - MySql
+    - PhP
 - **Herramientas**
     - VS Code
 ## Cursos Que He Seguido
