@@ -1,7 +1,7 @@
 ![Banner](https://i.imgur.com/GDqFlfV.png)
 ## Información Personal
 - **21 años :rocket:** 
-- **Estudiante de Desarrollo de Aplicaciones Web en I.E.S Abdera :heart:**
+- **Estudiante de Desarrollo de Aplicaciones Web en I.E.S Abdera**
 
 ## Sobre Mí
 Soy un estudiante de Desarrollo de Aplicaciones Web con la idea de seguir formandome en programación asi como en el campo de la ciberseguridad que siempre me ha llamado la atención, actualmente estudio en Almería pero tengo la idea de seguir formandome fuera de Andalucía en un futuro no muy lejano.
