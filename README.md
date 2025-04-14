@@ -1,57 +1,28 @@
-![Banner](https://i.imgur.com/GDqFlfV.png)
-## Información Personal
-- **21 años :rocket:** 
-- **Estudiante de Desarrollo de Aplicaciones Web en I.E.S Abdera**
+# 👨‍💻 Ismael Fernández Archilla
 
-## Sobre Mí
-Soy un estudiante de Desarrollo de Aplicaciones Web con la idea de seguir formandome en programación asi como en el campo de la ciberseguridad que siempre me ha llamado la atención, actualmente estudio en Almería pero tengo la idea de seguir formandome fuera de Andalucía en un futuro no muy lejano.
+¡Hola! Soy **Ismael Fernández Archilla**, tengo 21 años y actualmente estoy finalizando un **Grado Superior en Desarrollo de Aplicaciones Web** en el [IES Abdera](https://iesabdera.com/). Mi pasión por la tecnología va más allá del desarrollo web: estoy decidido a seguir formándome en el campo de la **Ciberseguridad**, un área que me motiva y en la que quiero crecer profesionalmente.
 
-## Contacto
-[![Twitter](https://img.shields.io/badge/Twitter-@ismael_GRMY-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/ismael_GRMY)
-  
-[![Instagram](https://img.shields.io/badge/Instagram-@ismael_bnk-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/ismael_bnk)
+## 🚀 Tecnologías que domino
 
-[![Gmail](https://img.shields.io/badge/Gmail-ismaelarchi@gmail.com-E4405F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()
+Durante mi formación y proyectos personales, he adquirido experiencia sólida en:
 
-## Tecnologias y Herramientas
-- **Tecnologías**
-    - Python
-    - JavaScript
-    - HTML/CSS
-    - MySql
-    - PhP
-- **Herramientas**
-    - VS Code
-## Cursos Que He Seguido
-<table>
-  <tr>
-    <td>
-        <a href="https://youtu.be/_y9qQZXE24A">
-        <img src="http://i3.ytimg.com/vi/_y9qQZXE24A/maxresdefault.jpg">
-        </a>
-    </td>
-    <td>
-        <a href="https://youtu.be/Kp4Mvapo5kc">
-        <img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
-        </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-        <a href="https://youtu.be/3GymExBkKjE">
-        <img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
-        </a>
-    </td>
-    <td>
-        <a href="https://youtu.be/zFbTXe1yFGA">
-        <img src="http://i3.ytimg.com/vi/zFbTXe1yFGA/maxresdefault.jpg">
-        </a>
-    </td>
-  </tr>
-</table>
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Backend**: PHP, Python
+- **Bases de datos**: MySQL
+- **Otros**: Git & GitHub, Responsive Design, herramientas de desarrollo modernas
 
-## Estadisticas de GitHub / Proyectos Destacados 
+## 🎯 Objetivos profesionales
 
--[Proyecto](https://github.com/Ismael3011/programacion)
+Mi meta es convertirme en un profesional integral en el ámbito de las tecnologías de la información, combinando mis conocimientos en desarrollo con habilidades avanzadas en **ciberseguridad**, para contribuir a crear entornos digitales más seguros y eficientes.
 
--![Stats](https://github.com/Ismael3011?tab=stars)
+## 📫 Contacto
+
+Si deseas hablar sobre tecnología, colaborar en un proyecto o simplemente conectar, puedes encontrarme aquí:
+
+- 📧 Gmail: [ismaelarchi@gmail.com](mailto:ismaelarchi@gmail.com)
+- 📸 Instagram: [@ismael_bnk](https://instagram.com/ismael_bnk)
+
+---
+
+> — Ismael Fernández Archilla
+
